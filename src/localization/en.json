@@ -1,0 +1,104 @@
+{
+    "HOME": "HOME",
+    "SERVICES": "SERVICES",
+    "ABOUTE": "ABOUT",
+    "CONTACT": "CONTACT",
+    "MEMBERS": "MEMBERS",
+    "E-VOTING": "E-VOTING",
+    "E-CERTIFICATE": "E-CERTIFICATE",
+    "BUY AND SELL": "BUY AND SELL",
+    "RULE VERIFICATION": "RULE VERIFICATION",
+    "EDUCATION": "EDUCATION",
+    "BUY AND SELL": "BUY AND SELL",
+
+    "CATEGORIES": "Categories",
+    "PRODUCTS": "Products",
+    "ORDERS": "Orders",
+
+    "Connect": "Connect",
+    "Disconnect": "Disconnect",
+
+    "Please enter your name": "Please enter your name",
+    "Check your wallet connection": "Check your wallet connection",
+    "You successfully joined": "You successfully joined",
+    "Something went wrong": "Something went wrong",
+    "Loading your info...": "Loading your info...",
+    "Your name": "Your name",
+    "You need to join to group to use this system.": "You need to join to group to use this system.",
+    "Join": "Join",
+
+    "You should connect wallet to use this system.": "You should connect wallet to use this system.",
+
+    "Page Not Found": "Page Not Found",
+
+    "Please input description.": "Please input description.",
+    "You bought a product successfully": "You bought a product successfully",
+    "Buy Product": "Buy Product",
+    "Description": "Description",
+    "Buy": "Buy",
+
+    "Please input category name": "Please input category name",
+    "You created a category successfully": "You created a category successfully",
+    "Create Category": "Create Category",
+    "Create": "Create",
+    "Category Name": "Category Name",
+
+    "Id": "Id",
+    "Name": "Name",
+
+    "Categories": "Categories",
+    "All Products": "All Products",
+
+    "File upload failed": "File upload failed",
+    "You created a product successfully": "You created a product successfully",
+    "Select Category": "Select Category",
+    "Choose Category...": "Choose Category...",
+    "Please choose a category.": "Please choose a category.",
+    "Product Name": "Product Name",
+    "Please put a product name.": "Please put a product name.",
+    "Product Image": "Product Image",
+    "Please upload a product image.": "Please upload a product image.",
+    "Upload Image": "Upload Image",
+    "Add Prodcut": "Add Prodcut",
+
+    "Create Product": "Create Product",
+    "Image": "Image",
+
+    "You activated the member.": "You activated the member.",
+
+    "Wallet Address": "Wallet Address",
+    "Status": "Status",
+    "Active": "Active",
+    "Inactive": "Inactive",
+    "Action": "Action",
+    "Activate": "Activate",
+
+    "Please input option name": "Please input option name",
+    "Please input material name": "Please input material name",
+    "At least 1 option needed": "At least 1 option needed",
+    "You created a voting material successfully": "You created a voting material successfully",
+    "Create Voting Material": "Create Voting Material",
+    "Options": "Options",
+    "No options": "No options",
+    "Add Option": "Add Option",
+    "Option Name": "Option Name",
+
+    "You need to join to Group": "You need to join to Group",
+    "You need to be activated by admin": "You need to be activated by admin",
+    "You can't vote what you created": "You can't vote what you created",
+    "You voted successfully": "You voted successfully",
+    "Loading Voting Material...": "Loading Voting Material...",
+    "You already voted to this material.": "You already voted to this material.",
+    "Voted Count": "Voted Count",
+    "Vote": "Vote",
+
+    "Creator": "Creator",
+    "Options Count": "Options Count",
+    "View Detail": "View Detail"
+
+
+
+
+
+
+}

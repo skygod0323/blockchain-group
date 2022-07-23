@@ -1,0 +1,55 @@
+Step Guide
+
+1. First of all you need to setup Crypto Wallet. Metamask is most popular wallet (This step is for only users who doesn't have metamask in chrome)
+	- Go to https://metamask.io/download
+	- Click on "Install MetaMask for Chrome". then you see a page to install metamask chrome extension
+	- Add the extension on the site
+	- Once installed metamask extension, you need to setup metamask
+		https://prnt.sc/QV_zXdiN6aR4
+	  If you click on the icon highlied, you can see extension list on your chrome, 
+	  In the list, if you click on metamask extension. you can see welcome screen.
+	- Click on 'Get Started', and then 'Create Wallet', ... simple steps you could understand
+	- Once you followed steps, you can see you have wallet with one account in metamask.
+	
+2. Now, Setup network in Metamask. Actually current system is working on BSC Test Network which doesn't exist MetaMask by Default
+	So you need to add the network into MetaMask manually, we will implement feature to add network programatically later.
+	
+	- Click on dropdown list as below screenshot, and then click on Add Network
+		https://prnt.sc/KUdLkhhAvQEv
+	- Now you see below screen
+		https://prnt.sc/qd1l-eRVsodh
+		
+		Please fill informations like below
+			
+			Network Name: BSC Test Network
+			New RPC URL: https://speedy-nodes-nyc.moralis.io/2130c253b61b2486773413dd/bsc/testnet
+			Chain Id: 97
+			Currency Symbol: BNB
+			Block Explorer URL: https://testnet.bscscan.com/
+			
+		And then click on Save.
+	
+	Now you are ready to use Voting app
+	
+3. Go to https://panda-blockchain-vote.web.app. this is voting app url
+	- To use this system, you need to connect your wallet, there is a connect button on the top right corner of the page
+	  Click on the button and connect metamask
+	 
+	- On left sidebar of the page, you can see 2 items. Members and Voting Materials
+	
+	- In members page, you can see all joined members and activation status.
+	  You can join as member in this page.
+	- In voting materials page, you can see all voting materials list, if you click on view detail, you can see voting material detail.
+	  And in detail page, you can vote. of course you need to be activated by admin to vote
+	- If you are activated member, You can see Create Voting Material button in list page
+	- Create Voting Material page you can create voting material.
+	
+Hope the steps will be clear and easy to use.
+Of course, there are many things to improve because this is startup project. Looking forward to giving support to improve this dapp.
+		
+		
+	  
+	  
+	  
+	  
+	 

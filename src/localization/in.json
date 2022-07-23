@@ -1,0 +1,98 @@
+{
+    "HOME": "BERANDA",
+    "SERVICES": "JASA",
+    "ABOUTE": "TENTANG",
+    "CONTACT": "KONTAK",
+    "MEMBERS": "ANGGOTA",
+    "E-VOTING": "E-VOTING",
+    "E-CERTIFICATE": "E-SERTIFIKAT",
+    "BUY AND SELL": "JUAL BELI",
+    "RULE VERIFICATION": "VERIFIKASI ATURAN",
+    "EDUCATION": "PENDIDIKAN",
+    "SOCIAL CREDIT": "SOCIAL CREDIT",
+
+    "CATEGORIES": "Kategori",
+    "PRODUCTS": "Produk",
+    "ORDERS": "Pesanan",
+
+    "Connect": "Connect",
+    "Disconnect": "Disconnect",
+
+    "Please enter your name": "Silahkan masukan nama anda",
+    "Check your wallet connection": "Periksa koneksi dompet Anda",
+    "You successfully joined": "Anda berhasil bergabung",
+    "Something went wrong": "Ada yang salah",
+    "Loading your info...": "Memuat info Anda...",
+    "Your name": "Namamu",
+    "You need to join to group to use this system.": "Anda harus bergabung ke grup untuk menggunakan sistem ini.",
+    "Join": "Bergabung",
+
+    "You should connect wallet to use this system.": "Anda harus menghubungkan dompet untuk menggunakan sistem ini.",
+
+    "Page Not Found": "Halaman tidak ditemukan",
+
+    "Please input description.": "Silakan masukkan deskripsi.",
+    "You bought a product successfully": "Anda berhasil membeli produk",
+    "Buy Product": "Beli Produk",
+    "Description": "Keterangan",
+    "Buy": "Membeli",
+
+    "Please input category name": "Silakan masukkan nama kategori",
+    "You created a category successfully": "Anda berhasil membuat kategori",
+    "Create Category": "Buat Kategori",
+    "Create": "Membuat",
+    "Category Name": "Nama Kategori",
+
+    "Id": "No",
+    "Name": "Nama",
+
+    "Categories": "Kategori",
+    "All Products": "Semua produk",
+
+    "File upload failed": "Unggahan file gagal",
+    "You created a product successfully": "Anda berhasil membuat produk",
+    "Select Category": "Pilih Kategori",
+    "Choose Category...": "Pilih Kategori...",
+    "Please choose a category.": "Silakan pilih kategori.",
+    "Product Name": "Nama Produk",
+    "Please put a product name.": "Harap cantumkan nama produk.",
+    "Product Image": "Gambar Produk",
+    "Please upload a product image.": "Silakan unggah gambar produk.",
+    "Upload Image": "Unggah Gambar",
+    "Add Prodcut": "Tambahkan Produk",
+
+    "Create Product": "Buat Produk",
+    "Image": "Gambar",
+
+    "You activated the member.": "Anda mengaktifkan anggota.",
+
+    "Wallet Address": "Alamat Dompet",
+    "Status": "Status",
+    "Active": "Aktif",
+    "Inactive": "Tidak aktif",
+    "Action": "Tindakan",
+    "Activate": "Mengaktifkan",
+
+    "Please input option name": "Silakan masukkan nama opsi",
+    "Please input material name": "Silakan masukkan nama bahan",
+    "At least 1 option needed": "Setidaknya 1 opsi diperlukan",
+    "You created a voting material successfully": "Anda berhasil membuat materi pemungutan suara",
+    "Create Voting Material": "Buat Materi Voting",
+    "Options": "Pilihan",
+    "No options": "Tidak ada pilihan",
+    "Add Option": "Tambahkan Opsi",
+    "Option Name": "Nama Opsi",
+
+    "You need to join to Group": "Anda harus bergabung ke Grup",
+    "You need to be activated by admin": "Anda harus diaktifkan oleh admin",
+    "You can't vote what you created": "Anda tidak dapat memilih apa yang Anda buat",
+    "You voted successfully": "Anda berhasil memilih",
+    "Loading Voting Material...": "Memuat Materi Pemungutan Suara...",
+    "You already voted to this material.": "Anda sudah memilih materi ini.",
+    "Voted Count": "Hitungan Suara",
+    "Vote": "Pilih",
+
+    "Creator": "Pencipta",
+    "Options Count": "Jml Pilihan",
+    "View Detail": "Lihat Detail"
+}

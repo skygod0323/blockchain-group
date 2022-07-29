@@ -4,7 +4,7 @@ import { translate } from '../localization';
 
 export const LocalizationContext = createContext();
 
-const DEFAULT_LANGUAGE = 'en';
+const DEFAULT_LANGUAGE = 'in';
 
 const LocalizationContextProvider = ({ children }) => {
   const [lang, setLang] = useState(DEFAULT_LANGUAGE);

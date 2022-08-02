@@ -37,6 +37,6 @@ export const providerOptions = {
   },
 };
 
-// export const RPC_URL = 'https://data-seed-prebsc-2-s3.binance.org:8545';    //// BSC TEST NETWORK RPC
-export const RPC_URL = 'https://bsc-dataseed.binance.org';    //// BSC MAIN NETWORK RPC
+export const RPC_URL = 'https://data-seed-prebsc-2-s3.binance.org:8545';    //// BSC TEST NETWORK RPC
+// export const RPC_URL = 'https://bsc-dataseed.binance.org';    //// BSC MAIN NETWORK RPC
 
